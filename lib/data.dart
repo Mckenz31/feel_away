@@ -1,0 +1,1 @@
+double vulnerabilityLevel = 60;
